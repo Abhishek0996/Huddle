@@ -11,7 +11,7 @@
 
     body {
         overflow-x: hidden;
-        background: url(./images/bg-hero-mobile.svg);
+        background: url(./bg-hero-mobile.svg);
     }
 
     header {
@@ -333,7 +333,7 @@
 
     body {
         overflow-x: hidden;
-        background: url(./images/bg-hero-mobile.svg);
+        background: url(./bg-hero-mobile.svg);
         margin: auto;
     }
 
@@ -778,7 +778,7 @@
 
     body {
         overflow-x: hidden;
-        background: url(./images/bg-hero-mobile.svg);
+        background: url(./bg-hero-mobile.svg);
         margin: auto;
     }
 
